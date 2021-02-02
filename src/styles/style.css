@@ -5,3 +5,9 @@ body {
 h1 {
   color: orange;
 }
+
+.footer_page {
+  background: silver;
+  text-align: center;
+  padding: .3rem;
+}
